@@ -25,7 +25,6 @@
 
 :: 魔杖店
 我們走到了魔杖店前，裡面有各式各樣的魔法棒，我們在這裡挑選自己喜歡的魔法杖。
-<img src="https://imgur.com/undefined" alt="wand shop.png" width="300">
 
 選一支魔杖：
 * [[石頭製的->書店]]
